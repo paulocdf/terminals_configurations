@@ -1,0 +1,1 @@
+# terminals_configurations
